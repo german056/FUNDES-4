@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Aula Virtual",
+  "description": "Plataforma educativa para explorar cursos virtuales estructurados por módulos, con visualizaciones en mosaico y seguimiento del progreso de aprendizaje para múltiples perfiles de estudiantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
